@@ -72,3 +72,15 @@ main {
 .roll-dice:active {
   box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
 }
+
+.best-game{
+  display: flex;
+  margin-left: auto;
+  font-size: 0.9rem;
+}
+
+#best-game-n{
+  font-weight: 700;
+  font-family: "Unbounded";
+  font-size: 0.75rem;
+}
